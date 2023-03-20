@@ -17,8 +17,8 @@ My ultimate goal is to become an accomplished Data Scientist. I possess robust t
 <img align = "left"  alt = "Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <br />
 
-### Projects 
-1. SONAR Rock vs Mine Prediction 
+### My top projects 
+1. Fake news prediction using logistic regression.
 2. Diabetes prediction using ML 
 
 <!-- # Stats
