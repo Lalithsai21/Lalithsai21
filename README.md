@@ -19,7 +19,7 @@ My ultimate goal is to become an accomplished Data Scientist. I possess robust t
 
 ### My top projects 
 1. Fake news prediction using logistic regression.
-2. Diabetes prediction using ML 
+2. Diabetes prediction using SVM.
 
 <!-- # Stats
 <img align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=Lalithsai21&show_icons=true&theme=radical" />
