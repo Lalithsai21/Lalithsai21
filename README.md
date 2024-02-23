@@ -1,10 +1,10 @@
 # Lalithsai Padakula
 
- `An aspiring Data Scientist`
+<!-- `An aspiring Data Scientist`
  
-I am an ambitious graduate student pursuing a master's degree in Data Science and its Applications at the University at Buffalo. With a GPA of 3.8, I have demonstrated a strong academic background in the field. I have gained practical experience through a one-year internship, where I honed my skills in Python, SQL, data visualization, and machine learning models. Additionally, I worked as a Business Development Associate at BYJU's, which provided me with valuable insights into sales and marketing.
-My ultimate goal is to become an accomplished Data Scientist. I possess robust technical skills in Python, SQL, SQLite, as well as data visualization tools such as PowerBI and Tableau. Furthermore, I am proficient in using other tools like Jupyter, VS Code, Git, and Google Colab. As a lifelong learner, I am committed to staying current with the latest trends and advancements in the rapidly evolving field of data science.
- 
+<!-- I am an ambitious graduate student pursuing a master's degree in Data Science and its Applications at the University at Buffalo. With a GPA of 3.8, I have demonstrated a strong academic background in the field. I have gained practical experience through a one-year internship, where I honed my skills in Python, SQL, data visualization, and machine learning models. Additionally, I worked as a Business Development Associate at BYJU's, which provided me with valuable insights into sales and marketing.
+My ultimate goal is to become an accomplished Data Scientist. I possess robust technical skills in Python, SQL, SQLite, as well as data visualization tools such as PowerBI and Tableau. Furthermore, I am proficient in using other tools like Jupyter, VS Code, Git, and Google Colab. As a lifelong learner, I am committed to staying current with the latest trends and advancements in the rapidly evolving field of data science. -->
+
 ### Skills
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
